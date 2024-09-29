@@ -1,0 +1,21 @@
+/* 
+
+.date-range-selector {
+    display: block;
+    flex-direction: row;
+    gap: 20px;
+  }
+  
+  .date-picker-container {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .date-picker {
+    margin-top: 10px;
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+   */
